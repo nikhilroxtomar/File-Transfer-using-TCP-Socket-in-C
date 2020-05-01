@@ -3,8 +3,7 @@ A simple TCP client-server program written in C. In this program the client read
 
 Use the Makefile to compile the code.
 <ul>
-<li>make server</li>
-<li>make client</li>
-<b>OR</b><br/>
-<li>make all</li>
+<li>make server - to compile the server.</li>
+<li>make client- to compile the client.</li>
+<li>make all - to compile both the server and client.</li>
 </ul>
